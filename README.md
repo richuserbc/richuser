@@ -1,4 +1,4 @@
-<a href="https://bit.ly/3koZRGY"><img src="20210929_102930.jpg" alt="google-font" 
+<a href="https://bit.ly/3koZRGY"><img src="20210929_102930.jpg" alt="google-font" border0 a>
 <div align="center">
         <img src="https://media.giphy.com/media/12r4pHjvAOv48o/giphy.gif" alt="GIF" width="250" height="200"/>
 </p>
